@@ -4,7 +4,7 @@
   "description": "Repo for AoC 2021 solutions using Node.js",
   "main": "index.js",
   "scripts": {
-    "day": "./setup.sh $0",
+    "day": "sh setup.sh $0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
